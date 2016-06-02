@@ -1,0 +1,4 @@
+FROM microsoft/aspnet:1.0.0-rc1-update1                                                                                                        
+ADD bundle /bundle                                                                                                                                         
+RUN chmod +x /bundle/approot/web                                                                                                                           
+CMD /bundle/approot/web --server.urls=http://0.0.0.0:80
