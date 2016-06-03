@@ -1,3 +1,5 @@
+[Слайды](https://github.com/kekekeks/dotnext2016spb/raw/master/slides.pdf)
+
 Ссылки
 ------
 [Форумы MSDN](https://social.msdn.microsoft.com/Forums/en-US/home?forum=windowscontainers)
